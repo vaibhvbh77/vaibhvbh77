@@ -1,0 +1,13 @@
+{
+  "_comment": "Featured projects shown in the README.",
+  "projects": [
+    {
+      "repo": "Ticket_booking_distributed_system",
+      "description": "A distributed web-based ticket booking system supporting concurrent users, centralized event management, ticket availability tracking, and client-server communication across distributed components."
+    },
+    {
+      "repo": "leetcode",
+      "description": "My solutions and practice for LeetCode problems, covering Data Structures, Algorithms, and problem solving."
+    }
+  ]
+}

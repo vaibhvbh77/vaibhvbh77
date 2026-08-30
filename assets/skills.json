@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Java", "value": 85 },
+    { "label": "DSA", "value": 85 },
+    { "label": "Spring Boot", "value": 75 },
+    { "label": "SQL", "value": 75 },
+    { "label": "System Design", "value": 65 },
+    { "label": "Git / GitHub", "value": 80 },
+    { "label": "Docker", "value": 60 }
+  ]
+}
